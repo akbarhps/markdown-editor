@@ -23,6 +23,7 @@ pre {
 }
 
 pre > code {
+    color: white;
     background: transparent;
 }
 
